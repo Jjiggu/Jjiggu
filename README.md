@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjiggu&show_icons=true&theme=radical&count_private=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Eddie's+GitHub!)]
 
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -30,6 +31,8 @@
     </div>
     <br>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjiggu&show_icons=true&theme=radical&count_private=true)
 
 
 ## 📞 Contact 📞
