@@ -1,7 +1,6 @@
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjiggu&show_icons=true&theme=radical&count_private=true)
 
-## 🔨 Once I've used 🔨
+## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
