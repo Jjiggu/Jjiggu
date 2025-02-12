@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
 ## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
